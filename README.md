@@ -1,1 +1,1 @@
-<h2 align="center">WebStudio project</h2>
+<a href="https://iamgalexing.github.io/WebStudio--project" align="center">WebStudio project</a>
