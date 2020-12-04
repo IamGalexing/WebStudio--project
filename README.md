@@ -6,5 +6,5 @@ Technology used:
 - [x] SASS
 - [x] Javascript
 
-<img src="https://github.com/IamGalexing/WebStudio--project/blob/master/images/WebStudio-page.jpg" alt="screenshot of the main page of project"/>
+<a href="https://iamgalexing.github.io/WebStudio--project/" target="_blank"><img src="https://github.com/IamGalexing/WebStudio--project/blob/master/images/WebStudio-page.jpg" alt="screenshot of the main page of project"/></a>
 
