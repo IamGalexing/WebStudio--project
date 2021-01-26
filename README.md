@@ -1,5 +1,5 @@
 # :heavy_check_mark: WebStudio
-The website created from scratch by me from the [prototype in Figma](https://www.figma.com/file/nYqqYSbCm8EyvUDuNowZIt/Web-Studio-project?node-id=1621%3A57).</br>
+The website created from scratch by me from the [prototype in Figma](https://www.figma.com/proto/nYqqYSbCm8EyvUDuNowZIt/Web-Studio-project?node-id=1572%3A1&scaling=scale-down-width).</br>
 Technology used:
 - [x] HTML
 - [x] CSS
